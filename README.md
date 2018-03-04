@@ -78,7 +78,7 @@ git push --set-upstream origin master
 }
 ```
 
-###### index.html
+##### index.html
 
 ```html
 <!DOCTYPE html>
